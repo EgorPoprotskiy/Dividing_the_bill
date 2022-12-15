@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">РАЗДЕЛЕНИЕ СЧЕТА</string>
+    <string name="enter_summa">ВВЕДИТЕ СУММУ ЧЕКА:</string>
+    <string name="enter_peoples">ВВЕДИТЕ КОЛИЧЕСТВО ЧЕЛОВЕК:</string>
+    <string name="tip_size">РАЗМЕР ЧАЕВЫХ:</string>
+    <string name="total_per_person">ИТОГО НА ЧЕЛОВЕКА:</string>
+    <string name="calculate">РАСЧИТАТЬ</string>
+    <string name="tips_0">0%</string>
+    <string name="tips_10">10%</string>
+    <string name="tips_15">15%</string>
+    <string name="tips_20">20%</string>
+</resources>
